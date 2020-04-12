@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>网络协议 on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/tags/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/</link>
+    <description>Recent content in 网络协议 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/tags/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>计算机网络概述</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</guid>
+        <description>计算机网络概述 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ OSI体系结构： https://blog.csdn.net/taotongning/article/details/81352985 https://blog.csdn.net/qq_37954088/article/details/80171093 网络数据交互方法 三种交换方式： 电路交换 分组交换</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

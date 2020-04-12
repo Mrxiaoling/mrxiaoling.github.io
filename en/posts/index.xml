@@ -471,40 +471,6 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
       
       <item>
         <title>各种开发环境配置合集</title>
-        <link>https://mrxiaoling.github.io/en/posts/%E5%90%84%E7%A7%8D%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E9%9B%86%E5%90%88-%E5%89%AF%E6%9C%AC/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        <author>ling1471626451@gmail.com (Lingwq)</author>
-        
-        <guid>https://mrxiaoling.github.io/en/posts/%E5%90%84%E7%A7%8D%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E9%9B%86%E5%90%88-%E5%89%AF%E6%9C%AC/</guid>
-        <description>Nginx 安装以及配置 参考链接： https://blog.csdn.net/stinkstone/article/details/78082748 Centos7 Windows 1、 官网下载安装包 http://nginx.org/en/download.html 可以选择浏览器下载或者通过 wget 命令下载 1 2 cd /usr/local wget http://nginx.org/download/nginx-1.16.1.tar.gz 2、 安装 Nginx 首先安装 Nginx 依赖库 1 2 3 4 5 6 7 yum</description>
-        
-        <dc:creator>Lingwq</dc:creator>
-        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
-        
-        
-        
-          
-            
-              <category>开发环境配置</category>
-            
-          
-        
-        
-          
-            
-              <category>开发环境配置</category>
-            
-          
-        
-        
-          
-            
-          
-        
-      </item>
-      
-      <item>
-        <title>各种开发环境配置合集</title>
         <link>https://mrxiaoling.github.io/en/posts/%E5%90%84%E7%A7%8D%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E9%9B%86%E5%90%88/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         <author>ling1471626451@gmail.com (Lingwq)</author>
@@ -534,6 +500,54 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
           
             
           
+        
+      </item>
+      
+      <item>
+        <title>网络协议</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</guid>
+        <description></description>
+        
+        <dc:creator>Ling</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>设计模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</guid>
+        <description></description>
+        
+        <dc:creator>Ling</dc:creator>
+        
+        
+        
+        
+          
+            
+              <category>index</category>
+            
+          
+        
+        
         
       </item>
       

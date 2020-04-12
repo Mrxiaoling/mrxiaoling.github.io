@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>设计模式 on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+    <description>Recent content in 设计模式 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Adapter模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/adapter%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/adapter%E6%A8%A1%E5%BC%8F/</guid>
+        <description>Adapter模式 参考：1.《图解设计模式》 在现实生活中，适配器很常见，比如电子产品的供电电压电流都有一个额定值，像直流5V1A，5V2A等</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Iterator模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</guid>
+        <description>Iterator模式 参考：1.《图解设计模式》 2. https://blog.csdn.net/Lammonpeter/article/details/82142020 3. JDK里的Iterator模式： https://www.cnblogs.com/tstd/p/5049338.html Iterator模式适用于数据集合中按照顺序遍历集合；</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
