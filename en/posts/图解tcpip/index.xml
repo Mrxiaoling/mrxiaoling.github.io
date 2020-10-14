@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>图解TCPIP on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/</link>
+    <description>Recent content in 图解TCPIP on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title></title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E5%90%8D%E8%AF%8D%E7%BC%A9%E5%86%99/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E5%90%8D%E8%AF%8D%E7%BC%A9%E5%86%99/</guid>
+        <description>第三章 CSMA Carrier Sense Multiple Access ，载波监听多路访问 FCS Frame Check Sequence，帧检验序列 PPP Point-to-Point Protocol，点对点协议 LCP Link Control Protocol NCP Netwotrk Control Protocol IPCP IP Control Protocol PAP Password Authentication Protocol CHAP Challenge Handshake Authentication</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>IP</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE/</guid>
+        <description>数据链路的作用 IP（Internet Protocol） IP 位于第三层-网络层，主要作用是实现终端节点之间的通信，也叫点对点（end-to-en</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>IP协议相关技术</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</guid>
+        <description>仅凭IP无法完成通信 实际使用中很少输入IP，而是直接输入网址 数据链路层也不使用IP地址，在以太网的情况下只使用MAC地址 DNS IP地址不便记忆，</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>TCP&amp;UDP</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/tcpudp/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/tcpudp/</guid>
+        <description>传输层 如果说网络层（IP）比作收货地址，那么传输层（TCP&amp;amp;UDP）决定收货人（接收的应用程序），为了实现这一功能，使用了端口号来识</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>数据链路</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF/</guid>
+        <description>数据链路的作用 数据链路指参考模型的数据链路层，有时也指以太网，无线局域网等手段。 数据链路相关技术 MAC地址（ Media Access Control Address ） 媒体访问控制地址，也称</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

@@ -22,6 +22,42 @@
 
       
       <item>
+        <title>物理层协议</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/</guid>
+        <description>计算机网络概述 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ 物理层概念 物理层解决的是各种传输媒体上传输比特0和1的问题，进而给</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>计算机网络概述</title>
         <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +65,42 @@
         
         <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</guid>
         <description>计算机网络概述 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ OSI体系结构： https://blog.csdn.net/taotongning/article/details/81352985 https://blog.csdn.net/qq_37954088/article/details/80171093 网络数据交互方法 三种交换方式： 电路交换 分组交换</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>链路层协议</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%93%BE%E8%B7%AF%E5%B1%82/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%93%BE%E8%B7%AF%E5%B1%82/</guid>
+        <description>链路层 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ 链路层概念 沿着通信路劲连接相邻节点（运行链路层协议的任何设备称为“节点“包</description>
         
         <dc:creator>Lingwq</dc:creator>
         <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>

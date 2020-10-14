@@ -491,6 +491,24 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
       </item>
       
       <item>
+        <title></title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E5%90%8D%E8%AF%8D%E7%BC%A9%E5%86%99/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E5%90%8D%E8%AF%8D%E7%BC%A9%E5%86%99/</guid>
+        <description>第三章 CSMA Carrier Sense Multiple Access ，载波监听多路访问 FCS Frame Check Sequence，帧检验序列 PPP Point-to-Point Protocol，点对点协议 LCP Link Control Protocol NCP Netwotrk Control Protocol IPCP IP Control Protocol PAP Password Authentication Protocol CHAP Challenge Handshake Authentication</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
         <title>Adapter模式</title>
         <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/adapter%E6%A8%A1%E5%BC%8F/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -527,6 +545,114 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
       </item>
       
       <item>
+        <title>FactoryMethod模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/factory%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/factory%E6%A8%A1%E5%BC%8F/</guid>
+        <description>FactoryMethod模式 参考：1.《图解设计模式》 https://www.cnblogs.com/Bobby0322/p/4179921.html https://blog.csdn.net/qqqqq1993qqqqq/article/details/77332087 https://blog.csdn.net/w372426096/article/details/78009310 模式定义 工厂方法模式又称为工厂模式，也叫虚拟构造器（Virtual Constr</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>IP</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE/</guid>
+        <description>数据链路的作用 IP（Internet Protocol） IP 位于第三层-网络层，主要作用是实现终端节点之间的通信，也叫点对点（end-to-en</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>IP协议相关技术</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</guid>
+        <description>仅凭IP无法完成通信 实际使用中很少输入IP，而是直接输入网址 数据链路层也不使用IP地址，在以太网的情况下只使用MAC地址 DNS IP地址不便记忆，</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Iterator模式</title>
         <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -534,6 +660,402 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
         
         <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</guid>
         <description>Iterator模式 参考：1.《图解设计模式》 2. https://blog.csdn.net/Lammonpeter/article/details/82142020 3. JDK里的Iterator模式： https://www.cnblogs.com/tstd/p/5049338.html Iterator模式适用于数据集合中按照顺序遍历集合；</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>java内存区域与内存溢出异常</title>
+        <link>https://mrxiaoling.github.io/en/posts/jvm/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/jvm/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8/</guid>
+        <description>运行时数据区 Java8内存模型 String类和常量池（补充内容） 几种常量池 Mardword String s=new String(&amp;ldquo;abc&amp;rdquo;)创建了2个</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java面试-Java基础概念</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</guid>
+        <description>Java基础概念 JDK和JRE的区别？ https://blog.csdn.net/singit/article/details/62040688 JDK：java development kit （java开发工具） JRE：java runtime environment （java运行时环境） 由图可知JDK包含</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-Java基础</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java面试-Java多线程基础</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/</guid>
+        <description>Java多线程基础 https://mp.weixin.qq.com/s?__biz=MzIwNjg4MzY4NA==&amp;amp;mid=2247484552&amp;amp;idx=1&amp;amp;sn=6b0acf6d7501997d5a145db92f78a486&amp;amp;chksm=971b9a83a06c1395addfbfda02ed0ef9790f2a730a39d228119ef5abc2bb0fb4bf1fc42a1190&amp;amp;scene=21#wechat_redirect Java中实现多线程有几种方法（每种方法的优缺点？？） 继承Thread类 实现Runnable接口 实现Callable接口</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-Java基础</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java面试-Mybatis</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/mybatis/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/mybatis/</guid>
+        <description>Mybatis MyBatis中的动态SQL是什么意思？ 对于一些复杂的查询，我们可能会指定多个查询条件，但是这些条件可能存在也可能不存在，需要根据用户指定</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-Java基础</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java面试-Spring</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/spring/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/spring/</guid>
+        <description>Spring基础 什么是spring？ Spring 是分层的 Java SE/EE 应用 full-stack 轻量级开源框架，以 IoC（Inverse Of Control： 反转控制）和 AOP（Asp</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-Spring</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Java面试-多线程</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+        <description>Java多线程 线程和进程的概念 进程 在现代大多数面向线程设计的系统，进程是线程的容器。（在分时系统中，进程称为“用户程序”或者“任务”） 线程 是</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Prototype模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/prototype%E6%A8%A1%E5%BC%8F-/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/prototype%E6%A8%A1%E5%BC%8F-/</guid>
+        <description>Prototype模式 参考：1.《图解设计模式》 https://www.cnblogs.com/xuekyo/archive/2012/07/12/2587730.html java的浅克隆和深克隆：https://www.cnblogs.com/betterbo</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>redis</title>
+        <link>https://mrxiaoling.github.io/en/posts/redis/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/redis/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</guid>
+        <description>计算机网络概述 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ OSI体系结构： https://blog.csdn.net/taotongning/article/details/81352985 https://blog.csdn.net/qq_37954088/article/details/80171093 网络数据交互方法 三种交换方式： 电路交换 分组交换</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Singleton模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/singleton%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/singleton%E6%A8%A1%E5%BC%8F/</guid>
+        <description>Singleton模式 参考：1.《图解设计模式》 五种单例模式： https://segmentfault.com/a/1190000018000917 单例模式概念： https://blog.csdn.net/hb_csu/article/details/80504276 JDK中的单例模式： https://blog.csdn.net/wobushixiaobailian/article/details/86744763 静态内部类加载时间： https://www.cnblogs.com/zouxiangzhongyan/p/10762540.html 反射以及反序列化</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>TCP&amp;UDP</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/tcpudp/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/tcpudp/</guid>
+        <description>传输层 如果说网络层（IP）比作收货地址，那么传输层（TCP&amp;amp;UDP）决定收货人（接收的应用程序），为了实现这一功能，使用了端口号来识</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>TemplateMethod模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/templatemethod%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/templatemethod%E6%A8%A1%E5%BC%8F/</guid>
+        <description>TemplateMethod模式 参考：1.《图解设计模式》 https://cloud.tencent.com/developer/article/1609361 https://www.jianshu.com/p/800a44c1d9dd https://www.cnblogs.com/jing99/p/12607905.html 模式定义 定义一个操作算法中的框架，而将这些步骤延迟加载到子类中； 其本质就是固</description>
         
         <dc:creator>Lingwq</dc:creator>
         <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
@@ -597,6 +1119,78 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
       </item>
       
       <item>
+        <title>数据链路</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF/</guid>
+        <description>数据链路的作用 数据链路指参考模型的数据链路层，有时也指以太网，无线局域网等手段。 数据链路相关技术 MAC地址（ Media Access Control Address ） 媒体访问控制地址，也称</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+        
+          
+            
+              <category>图解TCPIP</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>物理层协议</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/</guid>
+        <description>计算机网络概述 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ 物理层概念 物理层解决的是各种传输媒体上传输比特0和1的问题，进而给</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>计算机网络概述</title>
         <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -627,6 +1221,78 @@ Inline math: $ \varphi = \dfrac{1+\sqrt5}{2}= 1.</description>
           
             
               <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>链路层协议</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%93%BE%E8%B7%AF%E5%B1%82/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%93%BE%E8%B7%AF%E5%B1%82/</guid>
+        <description>链路层 参考：《TCP/IP详解 卷1：协议》 B站UP：湖科大教书匠 https://space.bilibili.com/360996402/ 链路层概念 沿着通信路劲连接相邻节点（运行链路层协议的任何设备称为“节点“包</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+        
+          
+            
+              <category>网络协议</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>马士兵多线程笔记</title>
+        <link>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E9%A9%AC%E5%A3%AB%E5%85%B5%E5%A4%9A%E7%BA%BF%E7%A8%8B1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E9%A9%AC%E5%A3%AB%E5%85%B5%E5%A4%9A%E7%BA%BF%E7%A8%8B1/</guid>
+        <description>synchronized关键字 对象锁和类锁： https://blog.csdn.net/u013142781/article/details/51697672 首先要明白synchronized关键字锁定的是对象，而不是代码块！，这个对象可以自己指定； 1</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>多线程</category>
             
           
         

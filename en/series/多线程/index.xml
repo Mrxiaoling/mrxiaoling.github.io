@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>多线程 on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/series/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+    <description>Recent content in 多线程 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/series/%E5%A4%9A%E7%BA%BF%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>马士兵多线程笔记</title>
+        <link>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E9%A9%AC%E5%A3%AB%E5%85%B5%E5%A4%9A%E7%BA%BF%E7%A8%8B1/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E9%A9%AC%E5%A3%AB%E5%85%B5%E5%A4%9A%E7%BA%BF%E7%A8%8B1/</guid>
+        <description>synchronized关键字 对象锁和类锁： https://blog.csdn.net/u013142781/article/details/51697672 首先要明白synchronized关键字锁定的是对象，而不是代码块！，这个对象可以自己指定； 1</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>多线程</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

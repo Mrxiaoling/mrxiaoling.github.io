@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>JVM on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/categories/jvm/</link>
+    <description>Recent content in JVM on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/categories/jvm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>java内存区域与内存溢出异常</title>
+        <link>https://mrxiaoling.github.io/en/posts/jvm/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/jvm/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8/</guid>
+        <description>运行时数据区 Java8内存模型 String类和常量池（补充内容） 几种常量池 Mardword String s=new String(&amp;ldquo;abc&amp;rdquo;)创建了2个</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+        
+          
+            
+              <category>JVM</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

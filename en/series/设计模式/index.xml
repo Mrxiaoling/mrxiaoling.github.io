@@ -58,6 +58,42 @@
       </item>
       
       <item>
+        <title>FactoryMethod模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/factory%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/factory%E6%A8%A1%E5%BC%8F/</guid>
+        <description>FactoryMethod模式 参考：1.《图解设计模式》 https://www.cnblogs.com/Bobby0322/p/4179921.html https://blog.csdn.net/qqqqq1993qqqqq/article/details/77332087 https://blog.csdn.net/w372426096/article/details/78009310 模式定义 工厂方法模式又称为工厂模式，也叫虚拟构造器（Virtual Constr</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
         <title>Iterator模式</title>
         <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,6 +101,114 @@
         
         <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</guid>
         <description>Iterator模式 参考：1.《图解设计模式》 2. https://blog.csdn.net/Lammonpeter/article/details/82142020 3. JDK里的Iterator模式： https://www.cnblogs.com/tstd/p/5049338.html Iterator模式适用于数据集合中按照顺序遍历集合；</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Prototype模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/prototype%E6%A8%A1%E5%BC%8F-/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/prototype%E6%A8%A1%E5%BC%8F-/</guid>
+        <description>Prototype模式 参考：1.《图解设计模式》 https://www.cnblogs.com/xuekyo/archive/2012/07/12/2587730.html java的浅克隆和深克隆：https://www.cnblogs.com/betterbo</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>Singleton模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/singleton%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/singleton%E6%A8%A1%E5%BC%8F/</guid>
+        <description>Singleton模式 参考：1.《图解设计模式》 五种单例模式： https://segmentfault.com/a/1190000018000917 单例模式概念： https://blog.csdn.net/hb_csu/article/details/80504276 JDK中的单例模式： https://blog.csdn.net/wobushixiaobailian/article/details/86744763 静态内部类加载时间： https://www.cnblogs.com/zouxiangzhongyan/p/10762540.html 反射以及反序列化</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+        
+          
+            
+              <category>设计模式</category>
+            
+          
+        
+      </item>
+      
+      <item>
+        <title>TemplateMethod模式</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/templatemethod%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/templatemethod%E6%A8%A1%E5%BC%8F/</guid>
+        <description>TemplateMethod模式 参考：1.《图解设计模式》 https://cloud.tencent.com/developer/article/1609361 https://www.jianshu.com/p/800a44c1d9dd https://www.cnblogs.com/jing99/p/12607905.html 模式定义 定义一个操作算法中的框架，而将这些步骤延迟加载到子类中； 其本质就是固</description>
         
         <dc:creator>Lingwq</dc:creator>
         <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>

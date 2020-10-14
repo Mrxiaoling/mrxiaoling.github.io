@@ -328,7 +328,15 @@
   </url>
   
   <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E5%90%8D%E8%AF%8D%E7%BC%A9%E5%86%99/</loc>
+  </url>
+  
+  <url>
     <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/adapter%E6%A8%A1%E5%BC%8F/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/factory%E6%A8%A1%E5%BC%8F/</loc>
   </url>
   
   <url>
@@ -336,11 +344,115 @@
   </url>
   
   <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/ip%E5%8D%8F%E8%AE%AE%E7%9B%B8%E5%85%B3%E6%8A%80%E6%9C%AF/</loc>
+  </url>
+  
+  <url>
     <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/iterator%E6%A8%A1%E5%BC%8F/</loc>
   </url>
   
   <url>
+    <loc>https://mrxiaoling.github.io/en/posts/jvm/java%E5%86%85%E5%AD%98%E5%8C%BA%E5%9F%9F%E4%B8%8E%E5%86%85%E5%AD%98%E6%BA%A2%E5%87%BA%E5%BC%82%E5%B8%B8/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%9F%BA%E7%A1%80%E6%A6%82%E5%BF%B5/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/java%E5%A4%9A%E7%BA%BF%E7%A8%8B%E5%9F%BA%E7%A1%80/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/mybatis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/tags/jvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/series/jvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/jvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/jvm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/prototype%E6%A8%A1%E5%BC%8F-/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/redis/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/redis/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C%E6%A6%82%E8%BF%B0/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/singleton%E6%A8%A1%E5%BC%8F/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/tcpudp/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/templatemethod%E6%A8%A1%E5%BC%8F/</loc>
+  </url>
+  
+  <url>
     <loc>https://mrxiaoling.github.io/en/posts/%E5%90%84%E7%A7%8D%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE%E9%9B%86%E5%90%88/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/tags/%E5%9B%BE%E8%A7%A3tcpip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/series/%E5%9B%BE%E8%A7%A3tcpip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/%E5%9B%BE%E8%A7%A3tcpip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/tags/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/series/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
   </url>
   
   <url>
@@ -349,6 +461,14 @@
   
   <url>
     <loc>https://mrxiaoling.github.io/en/categories/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E5%9B%BE%E8%A7%A3tcpip/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E7%89%A9%E7%90%86%E5%B1%82/</loc>
   </url>
   
   <url>
@@ -385,6 +505,50 @@
   
   <url>
     <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/%E9%93%BE%E8%B7%AF%E5%B1%82/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/tags/%E9%9D%A2%E8%AF%95/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/series/%E9%9D%A2%E8%AF%95/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/%E9%9D%A2%E8%AF%95-java%E5%9F%BA%E7%A1%80/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/java%E5%9F%BA%E7%A1%80/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/%E9%9D%A2%E8%AF%95-spring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/spring/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/categories/%E9%9D%A2%E8%AF%95-%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</loc>
+  </url>
+  
+  <url>
+    <loc>https://mrxiaoling.github.io/en/posts/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/%E9%A9%AC%E5%A3%AB%E5%85%B5%E5%A4%9A%E7%BA%BF%E7%A8%8B1/</loc>
   </url>
   
 </urlset>

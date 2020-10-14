@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>面试-多线程 on Hugo Zzo Theme</title>
+    <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+    <description>Recent content in 面试-多线程 on Hugo Zzo Theme</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>ling1471626451@gmail.com (Lingwq)</managingEditor>
+    <webMaster>ling1471626451@gmail.com (Lingwq)</webMaster>
+    <copyright>&amp;copy;{year}, All Rights Reserved</copyright>
+    
+        <atom:link href="https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Java面试-多线程</title>
+        <link>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        <author>ling1471626451@gmail.com (Lingwq)</author>
+        
+        <guid>https://mrxiaoling.github.io/en/posts/%E9%9D%A2%E8%AF%95/%E5%A4%9A%E7%BA%BF%E7%A8%8B/java%E5%A4%9A%E7%BA%BF%E7%A8%8B/</guid>
+        <description>Java多线程 线程和进程的概念 进程 在现代大多数面向线程设计的系统，进程是线程的容器。（在分时系统中，进程称为“用户程序”或者“任务”） 线程 是</description>
+        
+        <dc:creator>Lingwq</dc:creator>
+        <media:content url="https://mrxiaoling.github.ioimages/feature3/code-file.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+        
+          
+            
+              <category>面试-多线程</category>
+            
+          
+        
+        
+          
+            
+              <category>面试</category>
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
